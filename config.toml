@@ -1,6 +1,5 @@
 baseURL = 'https://fieldofnodes.github.io/'
 title = 'Jonathan Miller Site'
-baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
