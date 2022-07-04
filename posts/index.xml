@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Terminal</title><link>https://fieldofnodes.github.io/posts/</link><description>Recent content in Posts on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 14:06:30 +0100</lastBuildDate><atom:link href="https://fieldofnodes.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://fieldofnodes.github.io/posts/my-first-post/</link><pubDate>Mon, 04 Jul 2022 14:06:30 +0100</pubDate><guid>https://fieldofnodes.github.io/posts/my-first-post/</guid><description>Initial Post This is a test run.
+Test lists Item 1 Item 2 link site Hugo site</description><content>&lt;h1 id="initial-post">Initial Post&lt;/h1>
+&lt;p>This is a test run.&lt;/p>
+&lt;h2 id="test-lists">Test lists&lt;/h2>
+&lt;ol>
+&lt;li>Item 1&lt;/li>
+&lt;li>Item 2&lt;/li>
+&lt;/ol>
+&lt;p>link site &lt;a href="https://gohugo.io/">Hugo site&lt;/a>&lt;/p></content></item></channel></rss>
